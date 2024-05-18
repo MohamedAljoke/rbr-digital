@@ -7,7 +7,7 @@ dashboard front e back
 Add the `--recurse-submodules` flag when cloning this repo to get the submodules
 
 ```
-git clone https://github.com/MohamedAljoke/rbr-dashboard.git --recurse-submodules
+git clone https://github.com/MohamedAljoke/rbr-digital.git --recurse-submodules
 ```
 
 ### Init Submodules
