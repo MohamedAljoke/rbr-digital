@@ -1,0 +1,6 @@
+[submodule "rbr-digital-front"]
+	path = rbr-digital-front
+	url = https://github.com/MohamedAljoke/rbr-digital-front.git
+[submodule "rbr_dashboard_api"]
+	path = rbr_dashboard_api
+	url = https://github.com/MohamedAljoke/rbr_dashboard_api.git
